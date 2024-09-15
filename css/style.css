@@ -429,6 +429,29 @@ a:focus {
 .about_section .detail-box a:hover {
   background-color: #f27a05;
 }
+/*hods section start */
+.hods{
+  .container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  img{
+    width: 45%;
+    height:45%;
+  }
+  .description{
+    font-size: large;
+    text-shadow: 1px 1px 2px rgb(217, 60, 29), 0 0 25px rgb(227, 193, 43), 0 0 5px orange;
+    margin-left: 0px;
+    padding-left: 80px;
+    
+  }
+  
+  
+ 
+}
+/*hod section end*/
 
 /*team section */
 .team_section {
